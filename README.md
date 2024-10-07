@@ -3,6 +3,7 @@
 ## Apie projektą
 
 Šis projektas yra internetinės parduotuvės pavyzdys, sukurtas naudojant Django framework'ą. Tai apima pagrindines el. komercijos funkcijas, tokias kaip produktų katalogas, vartotojų valdymas, krepšelio sistema, užsakymų valdymas ir apmokėjimo būdai. Projektas pritaikytas Lietuvos rinkai.
+- Veikiančią svetainę galima pažiūrėti adresu http://www.shop.djangoit.lt
 
 ## Projektas sukomponuotas iš šių Django aplikacijų
 
@@ -26,6 +27,7 @@
 - **Produktų redagavimas**: Galima keisti produktų informaciją, kainas, likučius ir kt.
 - **Užsakymų stebėjimas**: Galimybė stebėti užsakymus bei jų būsenas.
 
+
 ## Projekto diegimas
 
 ### Priklausomybių diegimas
@@ -35,6 +37,5 @@
 ```bash
 pip install -r requirements.txt
 
-Veikiančią svetainę galima pažiūrėti adresu [www.shop.djangoit.lt](http://www.shop.djangoit.lt)
 
 
