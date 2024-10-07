@@ -35,5 +35,6 @@
 ```bash
 pip install -r requirements.txt
 
+Veikiančią svetainę galima pažiūrėti adresu [www.shop.djangoit.lt](http://www.shop.djangoit.lt)
 
 
